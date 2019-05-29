@@ -16,4 +16,4 @@ We will seek to show you why this can be useful from the get-go. Many coding cou
 
 By the end of these sessions *hopefully* all of this will make sense.  Next up, get familiar with your Programming Environment.
 
-Next, read about [operating systems](../2/).
+Next, read about [environments](../2/).
